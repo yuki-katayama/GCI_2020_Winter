@@ -1,0 +1,3 @@
++ chapter3_colab.ipynbとchapter3.ipynbについて、中身のコードは全く同じです
++ chapter3_colab.ipynbでは、Google Colaboratory上で画像がちゃんと表示されるようにしています。これをローカルにダウンロードした場合、画像は表示されません
++ chapter3.ipynbでは、./figuresのディレクトリを参照して画像を表示しています。これをColaboratoryで実行した場合、画像は表示されません
